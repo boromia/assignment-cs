@@ -1,0 +1,7 @@
+G:\My Drive\ICSU3\A2GaziM\A2Q1ChangeGM\obj\Debug\A2Q1ChangeGM.csproj.AssemblyReference.cache
+G:\My Drive\ICSU3\A2GaziM\A2Q1ChangeGM\obj\Debug\A2Q1ChangeGM.csproj.CoreCompileInputs.cache
+G:\My Drive\ICSU3\A2GaziM\A2Q1ChangeGM\bin\Debug\A2Q1ChangeGM.exe.config
+G:\My Drive\ICSU3\A2GaziM\A2Q1ChangeGM\bin\Debug\A2Q1ChangeGM.exe
+G:\My Drive\ICSU3\A2GaziM\A2Q1ChangeGM\bin\Debug\A2Q1ChangeGM.pdb
+G:\My Drive\ICSU3\A2GaziM\A2Q1ChangeGM\obj\Debug\A2Q1ChangeGM.exe
+G:\My Drive\ICSU3\A2GaziM\A2Q1ChangeGM\obj\Debug\A2Q1ChangeGM.pdb
